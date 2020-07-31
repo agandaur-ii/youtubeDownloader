@@ -36,6 +36,11 @@ or
 nodemon index.js
 ```
 
+6. From the root directory, run 
+```
+open ./index.html
+```
+
 ## Info
 
 If there is any issues please open a new issue. You are welcome to add pull requests at anytime
